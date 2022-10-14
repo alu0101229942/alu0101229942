@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Claudio Yanes
 
-![Loading...](https://i.stack.imgur.com/vT8DJ.gif)
+<img src="https://i.stack.imgur.com/vT8DJ.gif" width="64">
